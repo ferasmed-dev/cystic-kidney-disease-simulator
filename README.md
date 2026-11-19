@@ -2,7 +2,7 @@
 
 **Enfermedades quísticas renales: del gen al quiste y al riñón** — interactive teaching simulator (Spanish / English).
 
-**Live demo:** https://ferasmed-dev.github.io/cystic-kidney-disease/ · English: https://ferasmed-dev.github.io/cystic-kidney-disease/?lang=en
+**Live demo:** https://ferasmed-dev.github.io/cystic-kidney-disease-simulator/ · English: https://ferasmed-dev.github.io/cystic-kidney-disease-simulator/?lang=en
 
 ![Screenshot](docs/screenshot.png)
 
