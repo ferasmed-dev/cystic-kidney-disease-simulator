@@ -1,0 +1,46 @@
+{
+  "topic": "Cystic kidney disease",
+  "system": "Renal / urinary",
+  "specialty": "Nephrology",
+  "eciModule": "III — Formación clínica humana",
+  "typicalSubjects": [
+    "Fisiopatología",
+    "Patología médica",
+    "Nefrología",
+    "Genética médica",
+    "Radiología"
+  ],
+  "mirRelevant": true,
+  "keywords_es": [
+    "poliquistosis renal autosómica dominante",
+    "PQRAD",
+    "PKD1",
+    "PKD2",
+    "tolvaptán",
+    "criterios de Ravine",
+    "PQRAR",
+    "nefronoptisis",
+    "riñón en esponja",
+    "Von Hippel-Lindau",
+    "esclerosis tuberosa",
+    "enfermedad quística adquirida"
+  ],
+  "keywords_en": [
+    "autosomal dominant polycystic kidney disease",
+    "ADPKD",
+    "PKD1",
+    "PKD2",
+    "tolvaptan",
+    "Ravine criteria",
+    "ARPKD",
+    "nephronophthisis",
+    "medullary sponge kidney",
+    "Von Hippel-Lindau",
+    "tuberous sclerosis",
+    "acquired cystic kidney disease"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ]
+}

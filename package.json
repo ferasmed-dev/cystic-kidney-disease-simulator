@@ -1,0 +1,9 @@
+{
+  "name": "cystic-kidney-disease",
+  "version": "1.0.0",
+  "description": "Interactive teaching simulator of cystic kidney disease (ADPKD, ARPKD, simple cysts, nephronophthisis, medullary cystic disease, sponge kidney, VHL, tuberous sclerosis, acquired). ES/EN.",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}
